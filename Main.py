@@ -1,3 +1,4 @@
+#MADE BY HASH6 (DO NOT REMOVE THIS)
 text = input("You find yourself in a dark hallway. Would you like to go left or right? ")
 if text.lower() == "right": 
     print("You die.")
