@@ -45,7 +45,7 @@ if text == "left":
             fifth_text = input("You fall asleep and awake in a cave underground. There are 2 levers on each side of you. Which one do you pull?").lower()
             
             # Handle lever choice
-            if fifth_text == "right" or fith_text == "left"
+            if fifth_text == "right" or fith_text == "left":
                 print("You get blown up")
             else:
                 # Print statement
@@ -64,4 +64,4 @@ if text == "left":
 # Handle right choice
 elif text == "right":
     # Print statement
-    print("You die")    
+    print("You die")
